@@ -1,6 +1,6 @@
 # 📝 Flask Personal Blog  
 
-![Blog Banner](https://img.freepik.com/free-vector/blogging-concept-illustration_114360-788.jpg?w=900&t=st=1694786510~exp=1694787110~hmac=5f8d73a66d351e54f604233a3c764b6db9a28f696b4a68c2591f98b3bb0865a7)  
+![Blog Banner]("C:\Users\velch\Pictures\Screenshots\Screenshot 2025-09-16 191033.png")  
 
 [![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-blue.svg)](https://flask.palletsprojects.com/)  
 [![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)](https://getbootstrap.com/)  
