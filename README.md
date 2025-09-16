@@ -1,6 +1,6 @@
 # 📝 Flask Personal Blog  
 
-![Blog Banner]("C:\Users\velch\Pictures\Screenshots\Screenshot 2025-09-16 191033.png")  
+![Blog Banner](https://drive.google.com/file/d/1wykwG1-m_2_DRbZDdyhARDMqkuz0YEXV/view?usp=sharing)  
 
 [![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-blue.svg)](https://flask.palletsprojects.com/)  
 [![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)](https://getbootstrap.com/)  
