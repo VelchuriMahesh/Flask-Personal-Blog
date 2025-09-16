@@ -1,11 +1,15 @@
 # 📝 Flask Personal Blog  
 
-![Blog Banner](https://drive.google.com/file/d/1wykwG1-m_2_DRbZDdyhARDMqkuz0YEXV/view?usp=sharing)  
+
+![Blog Banner](https://drive.google.com/uc?export=view&id=1wykwG1-m_2_DRbZDdyhARDMqkuz0YEXV)  
 
 [![Made with Flask](https://img.shields.io/badge/Made%20with-Flask-blue.svg)](https://flask.palletsprojects.com/)  
 [![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-purple)](https://getbootstrap.com/)  
 [![Database](https://img.shields.io/badge/Database-SQLite-green)](https://www.sqlite.org/)  
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+
+---
+  
 
 ---
 
